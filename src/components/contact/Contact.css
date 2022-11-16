@@ -1,0 +1,39 @@
+h1 {
+  margin-left: 10%;
+}
+p {
+  margin-left: 5%;
+}
+.Contact-details {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+}
+
+.years {
+  color: rgb(147, 152, 152);
+  display: flex;
+}
+
+img {
+  border-radius: 50%;
+  height: 65px;
+  width: 65px;
+  margin: 0;
+}
+
+.inline-div {
+  font-weight: bolder;
+  display: inline-flex;
+  padding: 4%;
+}
+
+button {
+  background-color: rgb(5, 56, 157);
+  width: 90%;
+  padding: 2%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  cursor: pointer;
+  color: white;
+}
